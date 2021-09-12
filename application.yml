@@ -1,6 +1,6 @@
 spring:
   profiles:
-    actice:
+    actice:dev
 
 ---
 spring:
